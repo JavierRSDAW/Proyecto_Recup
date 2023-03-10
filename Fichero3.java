@@ -3,6 +3,7 @@ package paquete1;
 public class Fichero3 {
 	
 	private int a;
+	private int d;
 	
 	public void metodoF3() {
 		
